@@ -34,5 +34,5 @@ password.send_keys("your_password")
 You will see a text file `backenddate.txt`. It must be in the same folder where the main code is. Open it and add the date for which you want to punchin in `yyyy-mm-dd`. The script reads the last punched-in date from the file and increments it by one day for the next run.
 
 ## Running the Script
-When you run the code, you'll see a pop-up of Chrome with a notification _"Chrome is being controlled by automated software" _, that's the Selenium behind on which the code is based on. Now, the LMS of Pakwheels will be open, it will login to your id though the login and password provided, head over to the punchin requests and submit your punchin attendance for 9 am.
+When you run the code, you'll see a pop-up of Chrome with a notification _"Chrome is being controlled by automated software"_, that's the Selenium behind on which the code is based on. Now, the LMS of Pakwheels will be open, it will login to your id though the login and password provided, head over to the punchin requests and submit your punchin attendance for 9 am.
 
