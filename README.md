@@ -7,7 +7,7 @@ The employee of Pakwheels only needs to enter their username, password, and the 
 ## Features
 - Automates the login process to LMS.
 - Navigates to the "Punching Request" section.
-- Automatically selects the date for punching in, incrementing from the previously recorded date.
+- Automatically selects the date for punching in through the `backenddate.txt` file provided by the user, incrementing from the previously recorded date.
 - Allows the user to select a punch-in time and submit the request.
 - Updates the date for the next punch-in request.
 
